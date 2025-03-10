@@ -16,7 +16,7 @@ export default function Login() {
           <VStack spacing={6}>
             <Heading>Login Coming Soon</Heading>
             <Button as={Link} href="/">
-              Return Home
+              Go to Home Page
             </Button>
           </VStack>
         </PageTransition>
